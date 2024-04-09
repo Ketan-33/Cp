@@ -1,0 +1,1 @@
+{"name":"Local: quickSort","url":"c:\\Cp\\sorting\\quickSort.cpp","tests":[{"id":1710850057338,"input":"5\n33 44 1 4 64","output":"1 4 33 44 64"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\sorting\\quickSort.cpp","group":"local","local":true}

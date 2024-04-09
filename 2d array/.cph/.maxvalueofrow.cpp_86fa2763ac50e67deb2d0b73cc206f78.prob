@@ -1,0 +1,1 @@
+{"name":"Local: maxvalueofrow","url":"c:\\Cp\\2d array\\maxvalueofrow.cpp","tests":[{"id":1710242543989,"input":"3\n1 99 3\n4 100 6\n7 99 9","output":"99\n100\n99"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\2d array\\maxvalueofrow.cpp","group":"local","local":true}

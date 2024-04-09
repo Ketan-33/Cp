@@ -1,0 +1,1 @@
+{"name":"Local: countOccurance","url":"c:\\Cp\\2d array\\countOccurance.cpp","tests":[{"id":1710328539143,"input":"3\n2 2 1\n1 1 1\n2 1 3\n3\n1\n2\n3","output":"3\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\2d array\\countOccurance.cpp","group":"local","local":true}

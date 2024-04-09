@@ -1,0 +1,1 @@
+{"name":"Local: cuberoot","url":"c:\\Cp\\searching\\cuberoot.cpp","tests":[{"id":1711024578158,"input":"5\n-27\n-125\n1000\n6859\n16777216","output":"-3\n-5\n10\n19\n256"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\searching\\cuberoot.cpp","group":"local","local":true}

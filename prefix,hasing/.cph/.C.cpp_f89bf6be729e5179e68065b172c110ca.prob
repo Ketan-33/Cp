@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Cp\\prefix,hasing\\C.cpp","tests":[{"id":1710157179962,"input":"3\n1 4 1\n3\n1 1\n1 2\n0 2\n\n","output":"4\n5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\prefix,hasing\\C.cpp","group":"local","local":true}

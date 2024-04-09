@@ -1,0 +1,1 @@
+{"name":"Local: pairwithDifference","url":"c:\\Cp\\searching\\pairwithDifference.cpp","tests":[{"id":1711021663865,"input":"2\n5 60\n1 20 40 100 80 \n10 11\n12 45 52 65 21 645 234 14 575 112","output":"true\nfalse"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\searching\\pairwithDifference.cpp","group":"local","local":true}

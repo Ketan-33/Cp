@@ -1,0 +1,1 @@
+{"name":"Local: theWave","url":"c:\\Cp\\searching\\theWave.cpp","tests":[{"id":1711023719477,"input":"4 6\n1 3 5 100\n-2\n2\n4\n80\n107\n5","output":"POSITIVE\nNEGATIVE\nPOSITIVE\nNEGATIVE\nPOSITIVE\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\searching\\theWave.cpp","group":"local","local":true}

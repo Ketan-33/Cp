@@ -1,0 +1,1 @@
+{"name":"Local: permutation","url":"c:\\Cp\\codechief\\permutation.cpp","tests":[{"id":1710946732994,"input":"3\n3\n3 1 2\n2\n1 2\n4\n3 2 1 4","output":"0\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\codechief\\permutation.cpp","group":"local","local":true}

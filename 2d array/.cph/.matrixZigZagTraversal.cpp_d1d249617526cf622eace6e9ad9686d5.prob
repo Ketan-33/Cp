@@ -1,0 +1,1 @@
+{"name":"Local: matrixZigZagTraversal","url":"c:\\Cp\\2d array\\matrixZigZagTraversal.cpp","tests":[{"id":1710418380305,"input":"3 3\n5 9 -2\n-3 4 1\n2 6 1","output":"5 9 -2 1 4 -3 2 6 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\2d array\\matrixZigZagTraversal.cpp","group":"local","local":true}

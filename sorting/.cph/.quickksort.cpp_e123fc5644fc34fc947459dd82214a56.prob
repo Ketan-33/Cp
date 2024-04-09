@@ -1,0 +1,1 @@
+{"name":"Local: quickksort","url":"c:\\Cp\\sorting\\quickksort.cpp","tests":[{"id":1710850558980,"input":"5\n1 33 55 2 4","output":"1 2 4 33 55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\sorting\\quickksort.cpp","group":"local","local":true}
