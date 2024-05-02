@@ -1,0 +1,1 @@
+{"name":"Local: changeplease","url":"c:\\Cp\\codechief\\changeplease.cpp","tests":[{"id":1714574956755,"input":"3\n90\n100\n66","output":"10\n0\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\codechief\\changeplease.cpp","group":"local","local":true}
