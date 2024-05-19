@@ -1,0 +1,33 @@
+
+class Solution
+{
+public:
+    long long maximumTripletValue(vector<int> &nums)
+    {
+        int n = nums.size();
+        if (n < 3)
+            return 0;
+
+        int max_value = 0;
+        vector<int> max_k(n, INT_MIN);
+
+        for (int i = n - 2; i >= 0; --i)
+        {
+            max_k[i] = max(max_k[i + 1], nums[i + 1]);
+        }
+
+        for (int j = 1; j < n - 1; ++j)
+        {
+            for (int i = 0; i < j; ++i)
+            {
+                if (max_k[j] != INT_MIN)
+                {
+                    int triplet_value = (nums[i] - nums[j]) * max_k[j];
+                    max_value = max(max_value, triplet_value);
+                }
+            }
+        }
+
+        return max_value;
+    }
+};
