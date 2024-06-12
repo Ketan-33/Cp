@@ -1,0 +1,1 @@
+{"name":"Local: distinctSubstring","url":"c:\\Cp\\codechief\\distinctSubstring.cpp","tests":[{"id":1718203759609,"input":"4\n1 1\n3 1\n6 3\n7 2","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\codechief\\distinctSubstring.cpp","group":"local","local":true}

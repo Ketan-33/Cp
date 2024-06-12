@@ -1,0 +1,1 @@
+{"name":"Local: presufInequality","url":"c:\\Cp\\codechief\\presufInequality.cpp","tests":[{"id":1718204898860,"input":"3\n1\n3\n5","output":"1\n5 6 3\n7 5 7 7 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Cp\\codechief\\presufInequality.cpp","group":"local","local":true}
